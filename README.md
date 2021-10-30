@@ -37,3 +37,4 @@ Assumed Temperature Status :
 	1 : outside range for current cycle	
 
 
+video demo link https://drive.google.com/file/d/1U5GLsaLYk80wxMHSAz92uyidMcuOMHBT/view?usp=sharing
