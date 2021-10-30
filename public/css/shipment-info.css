@@ -1,0 +1,44 @@
+body{
+  padding-top:50px;
+}
+
+#post-get-details{
+  margin-top: 50px;
+}
+#post-shipment-id{
+  width: 80%;
+}
+#post-shipment-status{
+  width: 80%;
+}
+.post-details{
+  margin-top: 50px;
+}
+button{
+  width: 120px;
+  margin-left: 65%;
+}
+.get-details{
+  margin-top: 50px;
+}
+#get-shipment-id{
+  width: 80%;
+}
+#post-transaction-detail{
+  border: 1px solid grey;
+  border-radius: 5px;
+  height:auto;
+  width:120%;
+  padding: 2px;
+}
+#get-transaction-detail{
+  border: 1px solid grey;
+  border-radius: 5px;
+  height:auto;
+  width:70%;
+  margin-left: 20%;
+  padding: 2px;
+}
+.get-details-button{
+  margin-top: 138px;
+}

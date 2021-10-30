@@ -1,0 +1,107 @@
+body{
+  padding-top:50px;
+}
+
+
+#buyers-content{
+  margin-top: 50px;
+}
+
+.buyers-div h3{
+   padding-left: 50%;
+  }
+
+  .sellers-div h3{
+     padding-left: 50%;
+    }
+#sellers-content{
+  margin-top: 50px;
+}
+
+.form-control{
+  width: 150px;
+}
+
+#shipment-label label{
+  padding-left: 50%;
+}
+#shipment-label{
+  margin-top: 50px;
+}
+
+#shipment-content{
+  margin-top: 50px;
+}
+
+#shipment-id{
+  width: 200px;
+}
+
+#buyers-label label{
+  padding-left: 50%;
+}
+#buyers-label{
+  margin-top: 50px;
+}
+
+#buyers-content{
+  margin-top: 50px;
+}
+
+#buyers-id{
+  width: 200px;
+}
+
+#sellers-label label{
+  padding-left: 50%;
+}
+#sellers-label{
+  margin-top: 50px;
+}
+
+#sellers-content{
+  margin-top: 50px;
+}
+
+#sellers-id{
+  width: 200px;
+}
+
+#shipper-label label{
+  padding-left: 50%;
+}
+#shipper-label{
+  margin-top: 50px;
+}
+
+#shipper-content{
+  margin-top: 50px;
+}
+
+#shipper-id{
+  width: 200px;
+}
+
+#shipment-label label{
+  padding-left: 50%;
+}
+#shipment-label{
+  margin-top: 50px;
+}
+
+#shipment-content{
+  margin-top: 50px;
+}
+
+#shipment-status{
+  width: 200px;
+}
+
+#submit-button{
+  margin-top: 50px;
+}
+
+button{
+  width: 120px;
+  margin-left: 58%;
+}

@@ -1,0 +1,44 @@
+body{
+  padding-top:50px;
+}
+
+#buyer-post-get-details{
+  margin-top: 50px;
+}
+#buyer-post-shipment-id{
+  width: 80%;
+}
+.buyer-post-details{
+  margin-top: 50px;
+}
+#buyer-get-accept-button{
+  width: 120px;
+}
+#buyer-get-reject-button{
+  width: 120px;
+  margin-left: 25%;
+}
+.buyer-get-details{
+  margin-top: 50px;
+}
+#buyer-get-shipment-id{
+  width: 80%;
+}
+#buyer-get-submit-button{
+  width: 120px;
+  margin-left: 65%
+}
+.buyer-get-details-button{
+  margin-top: 50px;
+}
+#buyer-get-transaction-detail{
+  border: 1px solid grey;
+  border-radius: 5px;
+  height:auto;
+  width:90%;
+  padding: 2px;
+}
+#buyer-post-submit-button{
+  width: 120px;
+  margin-left: 65%;
+}

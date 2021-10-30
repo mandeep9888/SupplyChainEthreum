@@ -1,0 +1,42 @@
+{
+  "name": "biworkspace",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "angular-material": "^1.1.9",
+    "angular-utils-pagination": "^0.11.1",
+    "async": "^2.6.1",
+    "child_process": "^1.0.2",
+    "connect-multiparty": "^2.1.0",
+    "cookie-parser": "~1.4.3",
+    "cors": "^2.8.4",
+    "debug": "~2.6.9",
+    "ejs": "^2.6.1",
+    "epipebomb": "^1.0.0",
+    "express-session": "~1.15.6",
+    "form-data": "^2.3.2",
+    "formidable": "^1.2.1",
+    "http-errors": "~1.6.2",
+    "ipfs-api": "^22.1.0",
+    "jade": "~1.11.0",
+    "mongodb": "^2.2.33",
+    "mongoose": "^5.1.2",
+    "morgan": "~1.9.0",
+    "multer": "^1.3.0",
+    "nodemailer": "^4.6.7",
+    "request": "^2.87.0",
+    "rlp": "^2.1.0",
+    "solc": "^0.4.24",
+    "web3": "^0.20.6"
+  },
+  "devDependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.0.0",
+    "mongojs": "^2.6.0",
+    "nodemon": "^1.17.4"
+  }
+}
